@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/theremin/!svn/ver/519/theremin/trunk/Source/CoverArt
+END
+LastFmCoverArtDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/519/theremin/trunk/Source/CoverArt/LastFmCoverArtDataSource.m
+END
+ImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/481/theremin/trunk/Source/CoverArt/ImageDownloader.h
+END
+CoverArtDataSourceProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/theremin/!svn/ver/481/theremin/trunk/Source/CoverArt/CoverArtDataSourceProtocol.h
+END
+CoverArtImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/theremin/!svn/ver/487/theremin/trunk/Source/CoverArt/CoverArtImageView.h
+END
+ImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/481/theremin/trunk/Source/CoverArt/ImageDownloader.m
+END
+LastFmCoverArtDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/481/theremin/trunk/Source/CoverArt/LastFmCoverArtDataSource.h
+END
+CoverArtImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/theremin/!svn/ver/487/theremin/trunk/Source/CoverArt/CoverArtImageView.m
+END

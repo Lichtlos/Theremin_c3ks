@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/theremin/!svn/ver/419/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer
+END
+PWAlbumResultTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWAlbumResultTransformer.h
+END
+PWGenreResultTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWGenreResultTransformer.h
+END
+PWResultTransformerProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWResultTransformerProtocol.h
+END
+PWTitleResultTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWTitleResultTransformer.h
+END
+PWResultTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWResultTransformer.m
+END
+PWAlbumResultTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/theremin/!svn/ver/419/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWAlbumResultTransformer.m
+END
+PWGenreResultTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWGenreResultTransformer.m
+END
+PWArtistResultTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWArtistResultTransformer.h
+END
+PWTitleResultTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWTitleResultTransformer.m
+END
+PWArtistResultTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWArtistResultTransformer.m
+END
+PWResultTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/theremin/!svn/ver/403/squeezelib/trunk/SqueezeBox%20CLI/Result%20Transformer/PWResultTransformer.h
+END

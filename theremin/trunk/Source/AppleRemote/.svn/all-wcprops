@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/theremin/!svn/ver/499/theremin/trunk/Source/AppleRemote
+END
+MultiClickRemoteBehavior.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/MultiClickRemoteBehavior.h
+END
+RemoteControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/RemoteControl.h
+END
+AppleRemote.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/AppleRemote.h
+END
+RemoteControlContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/RemoteControlContainer.h
+END
+AppleRemoteController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/498/theremin/trunk/Source/AppleRemote/AppleRemoteController.h
+END
+HIDRemoteControlDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/HIDRemoteControlDevice.h
+END
+MultiClickRemoteBehavior.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/MultiClickRemoteBehavior.m
+END
+RemoteControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/RemoteControl.m
+END
+AppleRemote.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/AppleRemote.m
+END
+RemoteControlContainer.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/RemoteControlContainer.m
+END
+AppleRemoteController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/499/theremin/trunk/Source/AppleRemote/AppleRemoteController.m
+END
+HIDRemoteControlDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/455/theremin/trunk/Source/AppleRemote/HIDRemoteControlDevice.m
+END

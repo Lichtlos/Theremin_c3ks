@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/theremin/!svn/ver/515/theremin/trunk/libmpdclient-0.18.96
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/ChangeLog
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/ltmain.sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/aclocal.m4
+END
+libmpd.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/libmpd.pc.in
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/install-sh
+END

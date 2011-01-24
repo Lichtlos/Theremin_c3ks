@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/example/testcase
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/example/testcase/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/example/testcase/Makefile.am
+END
+testcase.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/example/testcase/testcase.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/theremin/!svn/ver/501/theremin/trunk/Source/VolumeSlider
+END
+PWSeekSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/455/theremin/trunk/Source/VolumeSlider/PWSeekSlider.h
+END
+PWSeekSliderCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/theremin/!svn/ver/455/theremin/trunk/Source/VolumeSlider/PWSeekSliderCell.h
+END
+PWVolumeImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/theremin/!svn/ver/455/theremin/trunk/Source/VolumeSlider/PWVolumeImage.h
+END
+PWVolumeSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/theremin/!svn/ver/501/theremin/trunk/Source/VolumeSlider/PWVolumeSlider.h
+END
+PWSeekSlider.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/455/theremin/trunk/Source/VolumeSlider/PWSeekSlider.m
+END
+PWSeekSliderCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/theremin/!svn/ver/455/theremin/trunk/Source/VolumeSlider/PWSeekSliderCell.m
+END
+PWVolumeImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/theremin/!svn/ver/455/theremin/trunk/Source/VolumeSlider/PWVolumeImage.m
+END
+PWVolumeSlider.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/theremin/!svn/ver/501/theremin/trunk/Source/VolumeSlider/PWVolumeSlider.m
+END

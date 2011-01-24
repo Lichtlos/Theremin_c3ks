@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/theremin/!svn/ver/512/theremin/trunk/Source/Library/SQLDatabase
+END
+LibraryFilterToSQLQueryConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLDatabase/LibraryFilterToSQLQueryConverter.h
+END
+SQLiteDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/480/theremin/trunk/Source/Library/SQLDatabase/SQLiteDatabase.m
+END
+SQLiteQuery.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/480/theremin/trunk/Source/Library/SQLDatabase/SQLiteQuery.m
+END
+LibraryFilterToSQLQueryConverter.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLDatabase/LibraryFilterToSQLQueryConverter.m
+END
+SQLUniqueIdentifiersFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLDatabase/SQLUniqueIdentifiersFilter.h
+END
+SQLController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLDatabase/SQLController.h
+END
+SQLiteDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/480/theremin/trunk/Source/Library/SQLDatabase/SQLiteDatabase.h
+END
+SQLUniqueIdentifiersFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLDatabase/SQLUniqueIdentifiersFilter.m
+END
+SQLiteQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLDatabase/SQLiteQuery.h
+END
+SQLController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/512/theremin/trunk/Source/Library/SQLDatabase/SQLController.m
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/theremin/!svn/ver/453/squeezelib/trunk/ServiceDiscovery/Helper
+END
+PWServiceDiscoveryReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/452/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceDiscoveryReply.h
+END
+PWServiceDiscoveryEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/453/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceDiscoveryEntity.h
+END
+PWServiceDiscoverySocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/452/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceDiscoverySocket.m
+END
+PWServiceDiscoveryReply.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/452/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceDiscoveryReply.m
+END
+PWServiceDiscoveryEntity.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/453/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceDiscoveryEntity.m
+END
+PWServiceRequests.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/theremin/!svn/ver/452/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceRequests.h
+END
+PWServiceDiscoverySocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/452/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceDiscoverySocket.h
+END
+PWServiceRequests.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/theremin/!svn/ver/452/squeezelib/trunk/ServiceDiscovery/Helper/PWServiceRequests.m
+END

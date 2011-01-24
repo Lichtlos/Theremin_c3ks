@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters
+END
+LibraryBooleanFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryBooleanFilter.h
+END
+LibraryFilterGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryFilterGroup.m
+END
+LibraryIdFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryIdFilter.m
+END
+LibraryBooleanFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryBooleanFilter.m
+END
+LibraryStringFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryStringFilter.h
+END
+LibraryStringFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryStringFilter.m
+END
+LibraryFilterGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryFilterGroup.h
+END
+LibraryIdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/Filters/LibraryIdFilter.h
+END

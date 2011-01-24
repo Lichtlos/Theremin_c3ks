@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/theremin/!svn/ver/518/theremin/trunk/Source/Library
+END
+LibraryOperationQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/LibraryOperationQueue.h
+END
+LibraryOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/LibraryOperation.m
+END
+SqueezeLibToThereminTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SqueezeLibToThereminTransformer.h
+END
+LibrarySearchController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/LibrarySearchController.h
+END
+LibraryOperationQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/LibraryOperationQueue.m
+END
+SqueezeLibToThereminTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SqueezeLibToThereminTransformer.m
+END
+LibrarySearchController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/LibrarySearchController.m
+END
+LibraryImportController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/LibraryImportController.h
+END
+LibraryImportController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/theremin/!svn/ver/501/theremin/trunk/Source/Library/LibraryImportController.m
+END
+LibraryController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/LibraryController.h
+END
+CompilationDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/theremin/!svn/ver/464/theremin/trunk/Source/Library/CompilationDetector.h
+END
+ThereminFilterToPWDatabaseQueryFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/ThereminFilterToPWDatabaseQueryFilter.h
+END
+CompilationDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/theremin/!svn/ver/464/theremin/trunk/Source/Library/CompilationDetector.m
+END
+LibraryController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/499/theremin/trunk/Source/Library/LibraryController.m
+END
+LibrarySubControllerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/theremin/!svn/ver/513/theremin/trunk/Source/Library/LibrarySubControllerBase.h
+END
+LibraryDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/LibraryDataSource.h
+END
+ThereminFilterToPWDatabaseQueryFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/ThereminFilterToPWDatabaseQueryFilter.m
+END
+LibrarySubControllerBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/theremin/!svn/ver/518/theremin/trunk/Source/Library/LibrarySubControllerBase.m
+END
+SqueezeLibDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/SqueezeLibDataSource.h
+END
+LibraryDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/theremin/!svn/ver/513/theremin/trunk/Source/Library/LibraryDataSource.m
+END
+LibraryOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/LibraryOperation.h
+END
+SqueezeLibDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/SqueezeLibDataSource.m
+END

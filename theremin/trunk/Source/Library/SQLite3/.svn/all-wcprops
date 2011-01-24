@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLite3
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLite3/sqlite3.c
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SQLite3/sqlite3.h
+END

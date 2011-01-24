@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/SubController
+END
+LibraryArtistSubController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SubController/LibraryArtistSubController.h
+END
+LibrarySongSubController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SubController/LibrarySongSubController.h
+END
+LibraryArtistSubController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/SubController/LibraryArtistSubController.m
+END
+LibrarySongSubController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/SubController/LibrarySongSubController.m
+END
+LibraryAlbumSubController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SubController/LibraryAlbumSubController.h
+END
+LibraryGenreSubController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/theremin/!svn/ver/455/theremin/trunk/Source/Library/SubController/LibraryGenreSubController.h
+END
+LibraryAlbumSubController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/SubController/LibraryAlbumSubController.m
+END
+LibraryGenreSubController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/theremin/!svn/ver/463/theremin/trunk/Source/Library/SubController/LibraryGenreSubController.m
+END

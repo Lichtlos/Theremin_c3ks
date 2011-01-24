@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/theremin/!svn/ver/516/theremin/trunk/Source/MusicServer
+END
+SqueezeLibMusicServerClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/SqueezeLibMusicServerClient.h
+END
+Genre.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Genre.h
+END
+Album.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Album.h
+END
+PlayListFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/PlayListFile.h
+END
+Directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Directory.h
+END
+SqueezeLibMusicServerClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/513/theremin/trunk/Source/MusicServer/SqueezeLibMusicServerClient.m
+END
+Genre.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Genre.m
+END
+Album.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Album.m
+END
+Song.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Song.h
+END
+PlayListFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/PlayListFile.m
+END
+MusicServerClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/theremin/!svn/ver/493/theremin/trunk/Source/MusicServer/MusicServerClient.h
+END
+Artist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Artist.h
+END
+MpdMusicServerClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/MpdMusicServerClient.h
+END
+ThereminEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/ThereminEntity.h
+END
+Directory.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Directory.m
+END
+Song.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Song.m
+END
+MusicServerClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/theremin/!svn/ver/493/theremin/trunk/Source/MusicServer/MusicServerClient.m
+END
+Artist.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/theremin/!svn/ver/455/theremin/trunk/Source/MusicServer/Artist.m
+END
+MpdMusicServerClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/theremin/!svn/ver/516/theremin/trunk/Source/MusicServer/MpdMusicServerClient.m
+END

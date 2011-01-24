@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/theremin/!svn/ver/447/squeezelib/trunk/SqueezeBox%20CLI/Requests
+END
+SLCLIOffsetRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIOffsetRequest.m
+END
+SLCLIPlayAlbumRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayAlbumRequest.m
+END
+SLCLIAlbumListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIAlbumListRequest.h
+END
+SLCLIPlayerRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayerRequest.h
+END
+SLCLIPlayerListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayerListRequest.m
+END
+SLCLIListenRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIListenRequest.h
+END
+SLCLICurrentPlaylistListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/theremin/!svn/ver/433/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLICurrentPlaylistListRequest.h
+END
+SLCLIAlbumListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/419/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIAlbumListRequest.m
+END
+SLCLIPlayerRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayerRequest.m
+END
+SLCLIArtistListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIArtistListRequest.h
+END
+SLCLIListenRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIListenRequest.m
+END
+SLCLICurrentTitleTimeRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLICurrentTitleTimeRequest.h
+END
+SLCLICurrentPlaylistListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/theremin/!svn/ver/433/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLICurrentPlaylistListRequest.m
+END
+SLCLIArtistListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIArtistListRequest.m
+END
+SLCLIVolumeRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIVolumeRequest.h
+END
+SLCLILoginRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLILoginRequest.h
+END
+SLCLICurrentTitleTimeRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/theremin/!svn/ver/384/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLICurrentTitleTimeRequest.m
+END
+SLCLIVolumeRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/384/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIVolumeRequest.m
+END
+SLCLILoginRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLILoginRequest.m
+END
+SLCLITitleListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLITitleListRequest.h
+END
+SLCLIRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIRequest.h
+END
+SLCLIPlayerPlaylistControlTrackIdRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/theremin/!svn/ver/447/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayerPlaylistControlTrackIdRequest.h
+END
+SLCLISongInfoRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLISongInfoRequest.h
+END
+SLCLITitleListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLITitleListRequest.m
+END
+SLCLIRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIRequest.m
+END
+SLCLIPlayAlbumRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayAlbumRequest.h
+END
+SLCLIOffsetRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIOffsetRequest.h
+END
+SLCLIPlayerPlaylistControlTrackIdRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/theremin/!svn/ver/447/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayerPlaylistControlTrackIdRequest.m
+END
+SLCLISongInfoRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/theremin/!svn/ver/402/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLISongInfoRequest.m
+END
+SLCLIPlayerListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/theremin/!svn/ver/382/squeezelib/trunk/SqueezeBox%20CLI/Requests/SLCLIPlayerListRequest.h
+END

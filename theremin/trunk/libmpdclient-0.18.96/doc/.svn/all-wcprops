@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/doc
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/doc/footer.html
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/doc/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/doc/Makefile.am
+END
+libmpd.doxy.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/theremin/!svn/ver/514/theremin/trunk/libmpdclient-0.18.96/doc/libmpd.doxy.in
+END

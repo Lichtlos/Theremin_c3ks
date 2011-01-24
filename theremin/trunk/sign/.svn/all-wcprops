@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/theremin/!svn/ver/455/theremin/trunk/sign
+END
+sign.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/theremin/!svn/ver/455/theremin/trunk/sign/sign.sh
+END
+dsa_pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/theremin/!svn/ver/455/theremin/trunk/sign/dsa_pub.pem
+END
