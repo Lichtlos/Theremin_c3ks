@@ -30,8 +30,6 @@
 		43341FAA0B8BA22500B8804A /* UnifiedToolbarItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 43341F980B8BA22500B8804A /* UnifiedToolbarItemView.m */; };
 		43341FAC0B8BA22500B8804A /* UnifiedToolbarLabelCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 43341F9A0B8BA22500B8804A /* UnifiedToolbarLabelCell.m */; };
 		433FC5ED0B4080F60082058A /* PWWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 433FC5EC0B4080F60082058A /* PWWindow.m */; };
-		4349F3970FB626EE00EBB890 /* SqueezeLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4349F2E80FB623E500EBB890 /* SqueezeLib.framework */; };
-		4349F3980FB626F200EBB890 /* SqueezeLib.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4349F2E80FB623E500EBB890 /* SqueezeLib.framework */; };
 		4350F0780F079D4F00FB6EDF /* PreferencesWindowController.m in Resources */ = {isa = PBXBuildFile; fileRef = 4350F0770F079D4F00FB6EDF /* PreferencesWindowController.m */; };
 		4350F0840F07A51100FB6EDF /* ProfileRepository.m in Sources */ = {isa = PBXBuildFile; fileRef = 4350F0830F07A51100FB6EDF /* ProfileRepository.m */; };
 		4350F0D90F07A90100FB6EDF /* PreferencesWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4350F0770F079D4F00FB6EDF /* PreferencesWindowController.m */; };
@@ -117,7 +115,6 @@
 		43D254AA0B4D80F200660DD9 /* MPSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 43D254A90B4D80F200660DD9 /* MPSlider.m */; };
 		43DEB58B0F082F3800A791A0 /* SqueezeLibDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 43DEB58A0F082F3800A791A0 /* SqueezeLibDataSource.m */; };
 		43E03F4C0E509116009358D9 /* SqueezeLibMusicServerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 43E03F4B0E509116009358D9 /* SqueezeLibMusicServerClient.m */; };
-		43E24D0D0D21FA7300D882B1 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43E24D0C0D21FA7300D882B1 /* Carbon.framework */; };
 		43E7F6450B415860005FEC19 /* LicenseController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43E7F6440B415860005FEC19 /* LicenseController.m */; };
 		43E8872C0F09766A003F708D /* SqueezeLibToThereminTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 43E8872B0F09766A003F708D /* SqueezeLibToThereminTransformer.m */; };
 		43E887320F0977EB003F708D /* NSArray+Transformations.m in Sources */ = {isa = PBXBuildFile; fileRef = 43E887310F0977EB003F708D /* NSArray+Transformations.m */; };
@@ -183,24 +180,8 @@
 		43FFC4070FC202C7002620C0 /* RemoteControlContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 43FFC4020FC202C7002620C0 /* RemoteControlContainer.m */; };
 		43FFC40B0FC202D2002620C0 /* AppleRemoteController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43FFC40A0FC202D2002620C0 /* AppleRemoteController.m */; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		FA9D6C63176068BE00C9EAB9 /* SqueezeLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA9D6C62176068BE00C9EAB9 /* SqueezeLib.framework */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		4349F2E70FB623E500EBB890 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 43BF73F20F06F97A00420B56 /* SqueezeLib.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 8DC2EF5B0486A6940098B216;
-			remoteInfo = SqueezeLib;
-		};
-		4349F3120FB6247400EBB890 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 43BF73F20F06F97A00420B56 /* SqueezeLib.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 8DC2EF4F0486A6940098B216;
-			remoteInfo = SqueezeLib;
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		43F0DA540B547FBD00E3542D /* CopyFiles */ = {
@@ -209,7 +190,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				4349F3980FB626F200EBB890 /* SqueezeLib.framework in CopyFiles */,
 				43BF74190F06FA5800420B56 /* Sparkle.framework in CopyFiles */,
 				43BF741A0F06FA5800420B56 /* Growl.framework in CopyFiles */,
 				43A1ADB60E5794C600226081 /* RBSplitView.framework in CopyFiles */,
@@ -401,7 +381,6 @@
 		43BD367D1052E699001E30F0 /* config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = config.h; path = "libmpdclient-0.18.96/src/config.h"; sourceTree = "<group>"; };
 		43BF73C80F06F72A00420B56 /* Growl.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Growl.framework; sourceTree = "<group>"; };
 		43BF73CC0F06F73300420B56 /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Sparkle.framework; sourceTree = "<group>"; };
-		43BF73F20F06F97A00420B56 /* SqueezeLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SqueezeLib.xcodeproj; path = ../../squeezelib/trunk/SqueezeLib.xcodeproj; sourceTree = SOURCE_ROOT; };
 		43BF744B0F06FFB000420B56 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/LicenseWindow.nib; sourceTree = "<group>"; };
 		43BF74740F0701EB00420B56 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Preferences.nib; sourceTree = "<group>"; };
 		43BF77710BB52CCD00715336 /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/Library.nib; sourceTree = "<group>"; };
@@ -500,6 +479,7 @@
 		43FFC4090FC202D2002620C0 /* AppleRemoteController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppleRemoteController.h; sourceTree = "<group>"; };
 		43FFC40A0FC202D2002620C0 /* AppleRemoteController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppleRemoteController.m; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* Theremin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Theremin.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA9D6C62176068BE00C9EAB9 /* SqueezeLib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SqueezeLib.framework; path = ../../squeezelib/build/Debug/SqueezeLib.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -507,12 +487,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4349F3970FB626EE00EBB890 /* SqueezeLib.framework in Frameworks */,
+				FA9D6C63176068BE00C9EAB9 /* SqueezeLib.framework in Frameworks */,
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
 				437BDB270B74F42E001C1057 /* Security.framework in Frameworks */,
 				43D0126D0B8B66BA00711A1B /* IOKit.framework in Frameworks */,
 				43FA42A10C1AB2D8005D0893 /* ExceptionHandling.framework in Frameworks */,
-				43E24D0D0D21FA7300D882B1 /* Carbon.framework in Frameworks */,
 				43A1ADB00E5794B200226081 /* RBSplitView.framework in Frameworks */,
 				43BF73C90F06F72A00420B56 /* Growl.framework in Frameworks */,
 				43BF73CD0F06F73300420B56 /* Sparkle.framework in Frameworks */,
@@ -592,7 +571,7 @@
 		29B97314FDCFA39411CA2CEA /* Theremin */ = {
 			isa = PBXGroup;
 			children = (
-				43BF73F20F06F97A00420B56 /* SqueezeLib.xcodeproj */,
+				FA9D6C62176068BE00C9EAB9 /* SqueezeLib.framework */,
 				43BF776D0BB52CB600715336 /* Nib Files */,
 				43CD56E40B354EBE00C42092 /* libmpdclient */,
 				080E96DDFE201D6D7F000001 /* Classes */,
@@ -687,14 +666,6 @@
 				43341F9A0B8BA22500B8804A /* UnifiedToolbarLabelCell.m */,
 			);
 			name = UnifiedToolbar;
-			sourceTree = "<group>";
-		};
-		4349F2E40FB623E500EBB890 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4349F2E80FB623E500EBB890 /* SqueezeLib.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		4350A2C80B47E6A300EFAE2A /* Library */ = {
@@ -1141,7 +1112,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				4349F3130FB6247400EBB890 /* PBXTargetDependency */,
 			);
 			name = Theremin;
 			productInstallPath = "$(HOME)/Applications";
@@ -1163,28 +1133,12 @@
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* Theremin */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 4349F2E40FB623E500EBB890 /* Products */;
-					ProjectRef = 43BF73F20F06F97A00420B56 /* SqueezeLib.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				8D1107260486CEB800E47090 /* Theremin */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		4349F2E80FB623E500EBB890 /* SqueezeLib.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = SqueezeLib.framework;
-			remoteRef = 4349F2E70FB623E500EBB890 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		8D1107290486CEB800E47090 /* Resources */ = {
@@ -1369,14 +1323,6 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		4349F3130FB6247400EBB890 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = SqueezeLib;
-			targetProxy = 4349F3120FB6247400EBB890 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin PBXVariantGroup section */
 		437EB6990BBDB8930033AE88 /* InfoPanel.nib */ = {
 			isa = PBXVariantGroup;
@@ -1448,8 +1394,7 @@
 		C01FCF4B08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1)";
-				ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1 = "ppc i386";
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1460,9 +1405,11 @@
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_3)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_2)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_3)",
 				);
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)\"";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_2 = "\"$(SRCROOT)/../../squeezelib/build/Debug\"";
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_3 = "\"$(SRCROOT)/../../squeezelib/build/Debug\"";
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -1473,10 +1420,11 @@
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
 				);
 				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/glib\"";
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				OTHER_CFLAGS = "-DTHREADSAFE=1";
 				PRODUCT_NAME = Theremin;
 				SYMROOT = ../../build;
+				VALID_ARCHS = x86_64;
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = NO;
 			};
@@ -1485,8 +1433,7 @@
 		C01FCF4C08A954540054247B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1)";
-				ARCHS_STANDARD_32_BIT_PRE_XCODE_3_1 = "ppc i386";
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1497,6 +1444,7 @@
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_3)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_4)",
 					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_5)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_6)",
 				);
 				FRAMEWORK_SEARCH_PATHS_QUOTED_1 = "\"$(SRCROOT)\"";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_2 = "\"$(SRCROOT)\"";
@@ -1505,6 +1453,7 @@
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_3 = "\"$(SRCROOT)\"";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_4 = "\"$(SRCROOT)\"";
 				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_5 = "\"$(SRCROOT)/../../../squeezelib/build/Release\"";
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_6 = "\"$(SRCROOT)/../../squeezelib/build/Debug\"";
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
@@ -1513,9 +1462,10 @@
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
 				);
 				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/glib\"";
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = Theremin;
 				SYMROOT = ../../build;
+				VALID_ARCHS = x86_64;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
